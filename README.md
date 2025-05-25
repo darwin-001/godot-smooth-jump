@@ -10,6 +10,11 @@ This repository contains the example Godot Engine project for implementing a **V
 
 ---
 
+![Variable Jump Thumbnail](https://github.com/darwin-001/godot-smooth-jump/blob/98895604b3b5898a967c940136e270a207cbefad/Godot%20Jump%20Mechanics.png)
+
+
+---
+
 ## What's Inside?
 
 * **Dynamic Jump Heights:** Learn how to make your character jump higher or lower based on how long the jump button is held. A quick tap for small hops, a longer press for soaring leaps!
@@ -26,10 +31,6 @@ Implementing a variable jump system will:
 * Allow for more intricate level design that leverages different jump heights.
 * Provide players with a satisfying sense of control over their character's movement.
 * Make your **Godot platformer** stand out with polished mechanics.
-
----
-
-![Variable Jump Thumbnail](https://github.com/darwin-001/godot-smooth-jump/blob/98895604b3b5898a967c940136e270a207cbefad/Godot%20Jump%20Mechanics.png)
 
 ---
 
