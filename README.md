@@ -31,7 +31,7 @@ Implementing a variable jump system will:
 
 ## Example Thumbnail
 
-![Variable Jump Thumbnail](YOUR_VARIABLE_JUMP_THUMBNAIL_URL_HERE)
+![Variable Jump Thumbnail](https://github.com/darwin-001/godot-smooth-jump/blob/98895604b3b5898a967c940136e270a207cbefad/Godot%20Jump%20Mechanics.png)
 
 ---
 
